@@ -4,7 +4,7 @@ I will showcase some of my work here in the time to come.
 
 About Me
 
-I hold a Bachelor of Science degree in AI from Radboud University.
+I hold a Bachelor of Science degree in Artificial Intelligence from Radboud University.
 My journey has been a combination of academic rigor and hands-on experience, enabling me to tackle complex problems and deliver practical solutions.
 Whether it's developing predictive models, implementing natural language processing algorithms, or delving into deep learning, I'm always eager to push the boundaries of what's possible in the AI realm.
 
