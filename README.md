@@ -1,5 +1,5 @@
-Hi, I'm Vinzenz, a recent AI graduate interested in leveraging cutting-edge technologies to solve real-world problems. I'm passionate about artificial intelligence, data engineering, machine learning, and data science.
-I will showcase some of my work here in the time to come.
+Hi, I'm Vinzenz, a data engineer and AI graduate interested in leveraging cutting-edge technologies to solve real-world problems. I'm passionate about artificial intelligence, data engineering, machine learning, and data science.
+Here, I showcase some of my work.
 
 
 #### About Me
