@@ -1,3 +1,3 @@
-##### Email: vin.r.ulr@gmail.com
+##### Email: vinzenz@autotradelab.com
 
 ##### LinkedIn: https://www.linkedin.com/in/vinzenzulrich/
